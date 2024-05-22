@@ -1,4 +1,4 @@
-# {Course Name}
+# Bench to Bytes
 
 This course was created from [this GitHub template](https://github.com/jhudsl/OTTR_Template).
 
@@ -8,7 +8,7 @@ If you would like to contribute to this course material, take a look at the [OTT
 
 ## About this course
 
-This course introduces {info on what this course introduces}
+This course introduces motivations for learning computational and data science skills that can be beneficial for both wet and dry lab researchers across all scientific fields.
 
 ## Learning Objectives
 
