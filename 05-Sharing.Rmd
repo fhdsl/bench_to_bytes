@@ -1,6 +1,6 @@
-# Why computational skills are useful: Data and Code Sharing and Reuse
+# Public Data and Code Sharing and Reuse
 
-The final theme that we'll explore is data and code sharing and reuse
+The final "why computational skill are useful" theme that we'll explore is public data and code sharing and reuse
 
 
 ```{r, include = FALSE}

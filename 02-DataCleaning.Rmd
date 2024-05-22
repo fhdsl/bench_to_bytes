@@ -1,6 +1,6 @@
-# Why computational skills are useful: Data cleaning
+# Data cleaning
 
-The first theme that we'll explore is data cleaning.
+The first "why computational skill are useful" theme that we'll explore is data cleaning.
 
 
 ```{r, include = FALSE}

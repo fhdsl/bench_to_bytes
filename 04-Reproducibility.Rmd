@@ -1,6 +1,6 @@
-# Why computational skills are useful: Reproducibility
+# Reproducibility
 
-The third theme that we'll explore is reproducibility.
+The third "why computational skill are useful" theme that we'll explore is reproducibility.
 
 
 ```{r, include = FALSE}

@@ -1,6 +1,6 @@
-# Why computational skills are useful: Data visualizatoin
+# Data visualization
 
-The second theme that we'll explore is data visualization
+The second "why computational skill are useful" theme that we'll explore is data visualization
 
 
 ```{r, include = FALSE}
