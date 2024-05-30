@@ -1,20 +1,28 @@
 ---
-title: "Course Name"
+title: "Informatics Technology for Cancer Research (ITCR): Bench to Bytes"
 date: "`r format(Sys.time(), '%B, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
+bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Description about Course/Book."
-favicon: assets/dasl_favicon.ico
+description: "A guide for wet bench researchers about why considering computational and data science skills can be useful for all types of scientific work."
+favicon: assets/ITN_favicon.ico
 output:
     bookdown::word_document2:
       toc: true
 ---
 
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), "bookdown", "knitr", "rmarkdown"
+), "packages.bib")
+```
+
 # About this Course {-}
 
+This course is part of a series of courses for the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) called the Informatics Technology for Cancer Research Education Resource. This material was created by the ITCR Training Network (ITN)  which is a collaborative effort of researchers around the United States to support cancer informatics and data science training through resources, technology, and events. This initiative is funded by the following grant:  [National Cancer Institute (NCI)](https://www.cancer.gov/)  UE5 CA254170. Our courses feature tools developed by ITCR Investigators and make it easier for principal investigators, scientists, and analysts to integrate cancer informatics into their workflows. Please see our website at [www.itcrtraining.org](www.itcrtraining.org) for more information. This course introduces motivations for learning computational and data science skills that can be beneficial for both wet and dry lab researchers across all scientific fields.
 
 ## Available course formats
 

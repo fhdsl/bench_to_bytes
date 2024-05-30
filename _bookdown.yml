@@ -1,9 +1,12 @@
-book_filename: "Course_Name"
+book_filename: "Bench to Bytes"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
             "01-intro.Rmd",
-            "02-chapter_of_course.Rmd",
+            "02-DataCleaning.Rmd",
+            "03-DataViz.Rmd",
+            "04-Reproducibility.Rmd",
+            "05-Sharing.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
