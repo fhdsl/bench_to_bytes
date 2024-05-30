@@ -168,6 +168,7 @@ jobs:
         id: commit
         run: |
           branch_name='preview-${{ github.event.pull_request.number }}'
+          git config --global pull.rebase true
           git diff origin/main -- docs >/dev/null && changes=true || changes=false
           echo "changes=$changes" >> $GITHUB_OUTPUT
           git add . --force
