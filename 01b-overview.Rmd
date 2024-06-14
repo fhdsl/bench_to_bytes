@@ -1,0 +1,28 @@
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# What are computational biology and data science?
+
+# Motivations for computational work
+
+# How does a researcher approach computional work?
+
+# Examples of the application of computational work to wet lab research
+
+# Rigor and ethics in computional work
+
+# Why learn computational skills yourself
+
+# Which computational skills are the most important to prioritize learning as a wet lab scientist
+
+## Data Wrangling
+
+## Data Visualization
+
+## Reproducibility and Transparency
+
+## Sharing and reusing public data, code, or tools
+
+In conclusion, the benefits of knowing computational skills as a wet lab scientist ... 

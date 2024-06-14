@@ -8,10 +8,11 @@ ottrpal::set_knitr_image_path()
 
 ## Motivation
 
+This course aims to provide motivations for learning computational skills and discuss specific examples or ways computational skills could benefit or supplement wet lab work.
 
 ## Target Audience  
 
-The course is intended for ...
+The course is intended for wet lab researchers who have very little to no computational experience (for example: users of Excel or GraphPad Prism, but non-"coders")
 
 ## Curriculum  
 
