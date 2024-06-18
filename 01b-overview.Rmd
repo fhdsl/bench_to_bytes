@@ -3,7 +3,15 @@
 ottrpal::set_knitr_image_path()
 ```
 
-# What are computational biology and data science?
+# What is data science?
+
+Study and use of computational skills within the field of biology may be described as data science, computational biology, or bioinformatics. While these terms may be used interchangeably by some, they do have distinctions. Specifically computational biology and bioinformatics are considered a subset of data science where in each case biology is the "domain specific knowledge" aspect of data science. Data science has been described as an interdisciplinary study combining computer science, applied math & statistics, and domain specific knowledge. That domain specific knowledge could be from any field with data: sociology, business, education -- or in the case of computational biology/bioinformatics -- biology.
+
+The Venn diagram below displays a model of this interdisciplinary view of data science and takes it a step further, encapsulating each subdivision and data science as a whole within the frame of ethics, as described in a PLOS Biology perspective of data science [@Bourne_2021].  
+
+![Venn Diagram: Defining Data Science](resources/images/what_is_data_science_venn.png)
+
+(Add a distinction for computational biology and bioinformatics here?)
 
 # Motivations for computational work
 
