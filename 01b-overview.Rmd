@@ -1,9 +1,15 @@
-
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
 ```
+# The who, what, when, where, and why of Computational Biology
 
-# What is data science?
+## Learning Objectives
+
+```{r}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g27401a19bd8_1_0")
+```
+
+## What are computational biology and data science?
 
 Study and use of computational skills within the field of biology may be described as data science, computational biology, or bioinformatics. While these terms may be used interchangeably by some, they do have distinctions. Specifically computational biology and bioinformatics are considered a subset of data science where in each case biology is the "domain specific knowledge" aspect of data science. Data science has been described as an interdisciplinary study combining computer science, applied math & statistics, and domain specific knowledge. That domain specific knowledge could be from any field with data: sociology, business, education -- or in the case of computational biology/bioinformatics -- biology.
 
@@ -11,26 +17,28 @@ The Venn diagram below displays a model of this interdisciplinary view of data s
 
 ![Venn Diagram: Defining Data Science](resources/images/what_is_data_science_venn.png)
 
-(Add a distinction for computational biology and bioinformatics here?)
+## Motivations for computational work in general and to learn computational skills yourself
 
-# Motivations for computational work
+## Examples of the application of computational work to wet lab research
 
-# How does a researcher approach computional work?
+## The philosophies and best practices of computational work
 
-# Examples of the application of computational work to wet lab research
+### Rigor and ethics in computational work
 
-# Rigor and ethics in computional work
+## Which computational skills are the most important to prioritize learning as a wet lab scientist
 
-# Why learn computational skills yourself
+### Data Wrangling
 
-# Which computational skills are the most important to prioritize learning as a wet lab scientist
+### Data Visualization
 
-## Data Wrangling
+### Reproducibility and Transparency
 
-## Data Visualization
+### Sharing and reusing public data, code, or tools
 
-## Reproducibility and Transparency
+In conclusion, the benefits of knowing computational skills as a wet lab scientist ...
 
-## Sharing and reusing public data, code, or tools
+```{r}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0ffd840_0_3")
+```
 
-In conclusion, the benefits of knowing computational skills as a wet lab scientist ... 
+Rather than a scientist being a wet-lab researcher or a dry-lab researcher, in the future we hope scientists have and utilize lab and computational skills for their research.
