@@ -12,12 +12,25 @@ This course aims to provide motivations for learning computational skills and di
 
 ## Target Audience  
 
-The course is intended for wet lab researchers who have very little to no computational experience (for example: users of Excel or GraphPad Prism, but non-"coders")
+The course is intended for wet lab researchers who have very little to no computational research experience (for example: users of Excel or GraphPad Prism, but non-"coders")
+
+```{r, include=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0eecfd5_5_25")
+```
 
 ## Curriculum  
 
 The course covers...
 
+```{r, include=FALSE}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0eecfd5_5_0")
+```
+
+## Objectives
+
+```{r}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f3ba2b3c_1_292")
+```
 
 ```{r}
 devtools::session_info()

@@ -1,28 +1,38 @@
-
 ```{r, include = FALSE}
 ottrpal::set_knitr_image_path()
 ```
+# The who, what, when, where, and why of Computational Biology
 
-# What are computational biology and data science?
+## Learning Objectives
 
-# Motivations for computational work
+```{r}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g27401a19bd8_1_0")
+```
 
-# How does a researcher approach computional work?
+## What are computational biology and data science?
 
-# Examples of the application of computational work to wet lab research
+## Motivations for computational work in general and to learn computational skills yourself
 
-# Rigor and ethics in computional work
+## Examples of the application of computational work to wet lab research
 
-# Why learn computational skills yourself
+## The philosophies and best practices of computational work
 
-# Which computational skills are the most important to prioritize learning as a wet lab scientist
+### Rigor and ethics in computational work
 
-## Data Wrangling
+## Which computational skills are the most important to prioritize learning as a wet lab scientist
 
-## Data Visualization
+### Data Wrangling
 
-## Reproducibility and Transparency
+### Data Visualization
 
-## Sharing and reusing public data, code, or tools
+### Reproducibility and Transparency
 
-In conclusion, the benefits of knowing computational skills as a wet lab scientist ... 
+### Sharing and reusing public data, code, or tools
+
+In conclusion, the benefits of knowing computational skills as a wet lab scientist ...
+
+```{r}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0ffd840_0_3")
+```
+
+Rather than a scientist being a wet-lab researcher or a dry-lab researcher, in the future we hope scientists have and utilize lab and computational skills for their research.
