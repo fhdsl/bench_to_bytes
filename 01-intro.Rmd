@@ -8,15 +8,29 @@ ottrpal::set_knitr_image_path()
 
 ## Motivation
 
+This course aims to provide motivations for learning computational skills and discuss specific examples or ways computational skills could benefit or supplement wet lab work.
 
 ## Target Audience  
 
-The course is intended for ...
+The course is intended for wet lab researchers who have very little to no computational research experience (for example: users of Excel or GraphPad Prism, but non-"coders")
+
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.alt="FILL IN TARGET AUDIENCE"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0eecfd5_5_25")
+```
 
 ## Curriculum  
 
 The course covers...
 
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.alt="FILL IN CONCEPTS DISCUSSED"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0eecfd5_5_0")
+```
+
+## Objectives
+
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.alt="FILL IN OBJECTIVES"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f3ba2b3c_1_292")
+```
 
 ```{r}
 devtools::session_info()
