@@ -28,7 +28,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgt
 
 ## Objectives
 
-```{r}
+```{r, include=FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f3ba2b3c_1_292")
 ```
 

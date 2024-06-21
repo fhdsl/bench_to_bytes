@@ -5,7 +5,7 @@ ottrpal::set_knitr_image_path()
 
 ## Learning Objectives
 
-```{r}
+```{r, include=FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g27401a19bd8_1_0")
 ```
 
@@ -29,9 +29,11 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgt
 
 ### Sharing and reusing public data, code, or tools
 
+## Conclusion
+
 In conclusion, the benefits of knowing computational skills as a wet lab scientist ...
 
-```{r}
+```{r, include=FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0ffd840_0_3")
 ```
 
