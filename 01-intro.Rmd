@@ -14,7 +14,7 @@ This course aims to provide motivations for learning computational skills and di
 
 The course is intended for wet lab researchers who have very little to no computational research experience (for example: users of Excel or GraphPad Prism, but non-"coders")
 
-```{r, include=FALSE}
+```{r, echo=FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0eecfd5_5_25")
 ```
 
@@ -22,13 +22,13 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgt
 
 The course covers...
 
-```{r, include=FALSE}
+```{r, echo=FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f0eecfd5_5_0")
 ```
 
 ## Objectives
 
-```{r, include=FALSE}
+```{r, echo=FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/137sOakbsXwN3ovgtlAzZMbQ5a_6ZIg-weTYeQ_Z7DqU/edit#slide=id.g273f3ba2b3c_1_292")
 ```
 
