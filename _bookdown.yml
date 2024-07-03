@@ -8,7 +8,9 @@ rmd_files: ["index.Rmd",
             "04-Reproducibility.Rmd",
             "05-Sharing.Rmd",
             "About.Rmd",
-            "References.Rmd"]
+            "References.Rmd"
+            #"ActivityDevdataViz.Rmd"
+            ]
 new_session: yes
 delete_merged_file: true
 language:
